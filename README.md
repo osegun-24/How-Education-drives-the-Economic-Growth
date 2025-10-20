@@ -1,5 +1,5 @@
 # Overview
-
+![Image](https://github.com/user-attachments/assets/69080224-65cd-4230-bc7e-4fbd8dae30e1)
 
 This project investigates the relationship between education indicators (such as literacy rate and physician density) and economic performance (measured by GDP per capita, GDP growth, and unemployment rate) across countries and continents.
 
